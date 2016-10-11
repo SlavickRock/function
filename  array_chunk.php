@@ -31,4 +31,4 @@ return $b;
 
 var_dump (chunk($a,3));
 echo "<br>";
-var_dump(arrary_chunk($a,3))
+var_dump(arrary_chunk($a,3));
